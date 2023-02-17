@@ -1,3 +1,4 @@
+<img src="IMG_3232.jpg"></img>
 # HaltJS
 HaltJS is a web server to help developer's test and run apps.
 

@@ -13,4 +13,4 @@ HaltJS is a web server to help developer's test and run apps.
 
 > node index.js myApp.html
 
-Now go to *** localhost:8080 *** and you'll see your app running fine :)
+Now go to ``` localhost:8080 ``` and you'll see your app running fine :)

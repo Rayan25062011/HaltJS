@@ -7,8 +7,10 @@
 HaltJS is a web server to help developer's test and run apps.
 
 ## Test your app
-• chmod +x HaltJS
+> chmod +x HaltJS
 
-• cd HaltJS
+> cd HaltJS
 
-• node index.js myApp.html
+> node index.js myApp.html
+
+Now go to *** localhost:8080 *** and you'll see your app running fine :)

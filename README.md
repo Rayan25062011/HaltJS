@@ -4,7 +4,9 @@
      class="center" />
 ---
 # HaltJS
-HaltJS is a web server to help developer's test and run apps.
+HaltJS is a web server made for speed and simplicity for everyone.
+
+```HaltJSTeam```: If its magnificent or not, each and every user has the right to run they're apps like a Pro.
 
 ## Test your app
 > chmod +x HaltJS
